@@ -1,7 +1,10 @@
-This project is 
+This project is an infinte scroll loader. It seemlesly scrolls down through a column of images with a margin on the left and the right.
+THis project is mobile responsive.
 
-It uses 
+It also has a loading icon (from loading.io) to the page while the images are being called in through the API.
+
+It uses an API to call images from Unsplash which can be clicked on and brings the user to Unsplash
 
 It can be used as an example of 
 
-- 
+- a blog landing page
